@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,100;1,300&family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fuggles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Loop&display=swap');
+.bacground-url{
+  background-image: url("./assets/inkHeader2.jpeg");
+  background-size: cover;
+
+}
+.bacground-url-cell{
+  background-image: url("./assets/inkHeader2.jpeg");
+  background-size: cover;
+  width: 100%;
+  height: auto;
+
+}
+
+.ytb-resp{
+  width: auto;
+    height: auto;
+}
+
+.roboto{
+  font-family: 'Roboto', sans-serif;
+
+}
+.zenloop{
+  font-family: 'Zen Loop', sans-serif;
+
+}
+.yellowtail{
+  font-family: 'Yellowtail', sans-serif;
+
+}
+
+
+
+.h1-header{
+  position: absolute;
+    top: 50%;
+    right: 5%;
+    font-family: 'Yellowtail', cursive;
+}
